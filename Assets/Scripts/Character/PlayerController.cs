@@ -5,10 +5,9 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed;
-    public LayerMask solidObjectsLayer;
-    public LayerMask interactableLayer;
 
     private bool isMoving;
+    public bool canMove = true;
     private Vector2 input;
 
     public Animator animator;
@@ -37,7 +36,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if(!isMoving)
+        if(!isMoving && canMove)
         {
             input.x = Input.GetAxisRaw("Horizontal");
             input.y = Input.GetAxisRaw("Vertical");
@@ -65,12 +64,18 @@ public class PlayerController : MonoBehaviour
         animator.SetBool("isMoving", isMoving); // Set moving animation
         if(Input.GetKeyDown(KeyCode.Return))
         {
-            var facingDir = new Vector3(animator.GetFloat("moveX"), animator.GetFloat("moveY")); // The player's current direction.
-            var targetPos = transform.position + facingDir;
-            if(Physics2D.OverlapCircle(targetPos, 0.3f, solidObjectsLayer | interactableLayer) != null)
-            {
-                Debug.Log("Someone is standing there");
-            }
+            Interact();
+        }
+    }
+
+    void Interact()
+    {
+        var facingDir = new Vector3(animator.GetFloat("moveX"), animator.GetFloat("moveY")); // The player's current direction.
+        var targetPos = transform.position + facingDir;
+        var collider = Physics2D.OverlapCircle(targetPos, 0.3f, GameLayers.instance.SolidObjectsLayer | GameLayers.instance.InteractableLayer);
+        if (collider != null)
+        {
+            StartCoroutine(collider.GetComponent<NPCController>()?.TalkedTo(transform));
         }
     }
 
@@ -114,7 +119,7 @@ public class PlayerController : MonoBehaviour
     private bool IsWalkable(Vector3 targetPos)
     {
         // Check whether something is on the target tile. If there is, then return false.
-        if(Physics2D.OverlapCircle(targetPos, 0.3f, solidObjectsLayer | interactableLayer) != null) {
+        if(Physics2D.OverlapCircle(targetPos, 0.3f, GameLayers.instance.SolidObjectsLayer | GameLayers.instance.InteractableLayer) != null) {
             return false;
         }
         return true;

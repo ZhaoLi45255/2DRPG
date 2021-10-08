@@ -14,8 +14,8 @@ TagManager:
   - SolidObjects
   - Interactable
   - Portal
+  - Player
   - Enemy
-  - 
   - 
   - 
   - 
