@@ -18,7 +18,10 @@ public class PlayerController : MonoBehaviour
 
     public static string spawnArea; // Determine which set of lists to read from.
     public static int spawnIndex; // Index of lists to get new coordinates from.
+
     [SerializeField] private GameObject playerSpawn;
+    [SerializeField] private DialogueUI dialogueUI;
+    public DialogueUI DialogueUI => dialogueUI;
 
     private void Awake()
     {
@@ -36,6 +39,14 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if(DialogueUI.hasBegun)
+        {
+            canMove = false;
+        }
+        else
+        {
+            canMove = true;
+        }
         if(!isMoving && canMove)
         {
             input.x = Input.GetAxisRaw("Horizontal");
@@ -62,7 +73,7 @@ public class PlayerController : MonoBehaviour
         }
 
         animator.SetBool("isMoving", isMoving); // Set moving animation
-        if(Input.GetKeyDown(KeyCode.Return))
+        if(Input.GetKeyDown(KeyCode.Return) && !DialogueUI.hasBegun)
         {
             Interact();
         }
@@ -75,7 +86,7 @@ public class PlayerController : MonoBehaviour
         var collider = Physics2D.OverlapCircle(targetPos, 0.3f, GameLayers.instance.SolidObjectsLayer | GameLayers.instance.InteractableLayer);
         if (collider != null)
         {
-            StartCoroutine(collider.GetComponent<NPCController>()?.TalkedTo(transform));
+            collider.GetComponent<NPCController>()?.TalkedTo(this);
         }
     }
 

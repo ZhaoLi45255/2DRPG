@@ -10,6 +10,10 @@ public class NPCController : MonoBehaviour
     [SerializeField] List<Vector2> movements;
     [SerializeField] float timeBetweenMoves;
 
+    [SerializeField] private DialogueUI dialogueUI;
+    public DialogueUI DialogueUI => dialogueUI;
+    [SerializeField] private DialogueObject dialogueObject;
+
     private Animator animator;
 
     private Vector3 moveDirection;
@@ -24,15 +28,18 @@ public class NPCController : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    public IEnumerator TalkedTo(Transform player)
+    public void TalkedTo(PlayerController player)
     {
         if (state != NPCState.Walking) // Make sure that NPC cannot be interacted with while walking.
         {
             state = NPCState.Busy;
-            FacePlayer(player.position);
-            yield return new WaitForSeconds(5);
-            Debug.Log("No longer busy");
-            state = NPCState.Idle;
+            FacePlayer(player.transform.position);
+            StartCoroutine(DialogueUI.ShowDialogue(dialogueObject, () =>
+            {
+                idleTimer = 0f;
+                state = NPCState.Idle;
+            }));
+            Debug.Log(state);
         }
     }
 
@@ -97,6 +104,10 @@ public class NPCController : MonoBehaviour
     {
         if(state == NPCState.Idle)
         {
+            if(counter != 0) // Make sure the NPC finishes its movement right after the path is clear.
+            {
+                StartCoroutine(Walk());
+            }
             idleTimer += Time.deltaTime;
             if(idleTimer > timeBetweenMoves)
             {
