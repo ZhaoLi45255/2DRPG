@@ -68,3 +68,32 @@ Update Mode: updateDependencies
 
 The following packages were updated:
   com.unity.ide.vscode from version 1.2.3 to 1.2.4
+
+=== Thu Oct 14 17:51:13 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.9.0 to 1.11.2
+
+=== Fri Oct 22 15:24:27 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.collab-proxy from version 1.11.2 to 1.13.5
+
+=== Sat Oct 30 01:02:53 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 6.0.5 to 7.0.0
+  com.unity.2d.psdimporter from version 5.0.4 to 6.0.0
+  com.unity.2d.spriteshape from version 6.0.1 to 7.0.0
+  com.unity.cinemachine from version 2.7.8 to 2.8.0
+  com.unity.timeline from version 1.5.6 to 1.6.2
+  com.unity.visualscripting from version 1.6.1 to 1.7.2

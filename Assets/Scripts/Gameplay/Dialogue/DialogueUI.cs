@@ -40,11 +40,13 @@ public class DialogueUI : MonoBehaviour
         for (int i = 0; i < dialogueObject.Dialogue.Length; i++)
         {
             string dialogue = dialogueObject.Dialogue[i];
-            yield return typewriterEffect.Run(dialogue, textLabel); // Make the dialogue appear.
+            yield return RunTypingEffect(dialogue);
+            textLabel.text = dialogue;
             if(i == dialogueObject.Dialogue.Length - 1 && dialogueObject.HasResponses)
             {
                 break;
             }
+            yield return null;
             yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.Return)); // Text will only go to the next line upon pressing the button.
         }
         if (dialogueObject.HasResponses)
@@ -56,6 +58,19 @@ public class DialogueUI : MonoBehaviour
             Debug.Log(onDialogueFinished == null);
             onDialogueFinished?.Invoke();
             CloseDialogueBox();
+        }
+    }
+
+    private IEnumerator RunTypingEffect(string dialogue)
+    {
+        typewriterEffect.Run(dialogue, textLabel);
+        while(typewriterEffect.IsRunning)
+        {
+            yield return null;
+            if(Input.GetKeyDown(KeyCode.Space)) // Skip the dialogue by pressing the key
+            {
+                typewriterEffect.Stop();
+            }
         }
     }
 

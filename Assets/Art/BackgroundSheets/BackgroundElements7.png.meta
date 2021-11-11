@@ -360,6 +360,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2788,6 +2789,119 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BackgroundElements7_1: 7148119297759969522
+      BackgroundElements7_33: -4459462292621330109
+      BackgroundElements7_37: 2913439369117204531
+      BackgroundElements7_67: 1603309352706078141
+      BackgroundElements7_78: 4268795684653804526
+      BackgroundElements7_64: 3878424857388455736
+      BackgroundElements7_3: -972446608011786829
+      BackgroundElements7_106: -5811440386923228837
+      BackgroundElements7_74: 4041253451752308893
+      BackgroundElements7_5: -3599750979391565772
+      BackgroundElements7_90: -8954207337883342172
+      BackgroundElements7_73: 3883456486578565959
+      BackgroundElements7_42: -3144114597833637205
+      BackgroundElements7_48: -2361280876903296784
+      BackgroundElements7_92: 330258135324155123
+      BackgroundElements7_63: -4773934568786577765
+      BackgroundElements7_58: -1363030798668042379
+      BackgroundElements7_24: -4852210473247424291
+      BackgroundElements7_61: 4039566101350071273
+      BackgroundElements7_6: 1664486573285796312
+      BackgroundElements7_34: -440611705639149512
+      BackgroundElements7_54: 3629476171928209613
+      BackgroundElements7_19: 6235728689493542602
+      BackgroundElements7_20: 340654747296754414
+      BackgroundElements7_84: -3211058208482678764
+      BackgroundElements7_47: 4817349378668540683
+      BackgroundElements7_82: -6193301840333311653
+      BackgroundElements7_96: 8715350138492909335
+      BackgroundElements7_49: -2222564219102880080
+      BackgroundElements7_102: 5747591972567114973
+      BackgroundElements7_18: -1430533168844130182
+      BackgroundElements7_80: 3950203249293418591
+      BackgroundElements7_79: -8182058394787730900
+      BackgroundElements7_87: 7710105699047720919
+      BackgroundElements7_85: -3435877756623851760
+      BackgroundElements7_39: 5999194571917915642
+      BackgroundElements7_109: 3896662242093320954
+      BackgroundElements7_7: -6405253491592833931
+      BackgroundElements7_86: -7957363850344105215
+      BackgroundElements7_36: 8899713174496172979
+      BackgroundElements7_41: -8034130342091145998
+      BackgroundElements7_93: -5928236531697070485
+      BackgroundElements7_14: 3810525281022567083
+      BackgroundElements7_2: -7535043791835528408
+      BackgroundElements7_111: 2395595578190978882
+      BackgroundElements7_13: -1160515495499415296
+      BackgroundElements7_35: -6918685345351768886
+      BackgroundElements7_107: -5462267841589670123
+      BackgroundElements7_11: 4463639639230874879
+      BackgroundElements7_28: -3114128931354019952
+      BackgroundElements7_108: 5244525968675498097
+      BackgroundElements7_110: -756545091827295849
+      BackgroundElements7_89: 5910587189512654469
+      BackgroundElements7_62: 5822296905498339049
+      BackgroundElements7_8: 1808866374968020313
+      BackgroundElements7_57: -3444815175662415711
+      BackgroundElements7_103: 7667954771343728843
+      BackgroundElements7_81: 7004023502107320809
+      BackgroundElements7_38: -4814869224509347024
+      BackgroundElements7_65: -3201393650271352686
+      BackgroundElements7_91: 3840258906021930455
+      BackgroundElements7_26: -7905644089564457638
+      BackgroundElements7_31: 7847719486621329645
+      BackgroundElements7_15: 7399406035685970481
+      BackgroundElements7_40: 9176386761241406941
+      BackgroundElements7_16: 8740253564529623531
+      BackgroundElements7_4: -189154302909015194
+      BackgroundElements7_99: 8309339401062338050
+      BackgroundElements7_77: 5781701481235514845
+      BackgroundElements7_46: 5607812386256689123
+      BackgroundElements7_71: 2965420995603453105
+      BackgroundElements7_105: 2992735703993171675
+      BackgroundElements7_10: 9091087679013382011
+      BackgroundElements7_98: 6164643867785414195
+      BackgroundElements7_12: 3632239584206331507
+      BackgroundElements7_60: 5859211202256343453
+      BackgroundElements7_72: -4249376450122667596
+      BackgroundElements7_30: 3567911392723201367
+      BackgroundElements7_97: 3211546185862239517
+      BackgroundElements7_43: 8695062157724261510
+      BackgroundElements7_101: 5728533513401262516
+      BackgroundElements7_50: -3102614417385097909
+      BackgroundElements7_66: -7280762250581079055
+      BackgroundElements7_21: -3589961154995427560
+      BackgroundElements7_59: -2833631013836501986
+      BackgroundElements7_88: 60211504875551891
+      BackgroundElements7_75: -8182861115019058069
+      BackgroundElements7_0: -8297108240114908291
+      BackgroundElements7_68: 1867747090987698757
+      BackgroundElements7_17: -872719807851734355
+      BackgroundElements7_25: 4226413073724317743
+      BackgroundElements7_27: 1264949018198259458
+      BackgroundElements7_9: 2550217933958108846
+      BackgroundElements7_22: 5032432181145731726
+      BackgroundElements7_56: -2171916148985739846
+      BackgroundElements7_44: 2088073459236726974
+      BackgroundElements7_55: -7720549091064349501
+      BackgroundElements7_51: -7929873795708247639
+      BackgroundElements7_53: -1683169520403658581
+      BackgroundElements7_45: -7097111234188473583
+      BackgroundElements7_94: -16355561618459605
+      BackgroundElements7_104: 686036781058044821
+      BackgroundElements7_83: 2317028953702066876
+      BackgroundElements7_23: -4588299219428466483
+      BackgroundElements7_76: -4409381807621658961
+      BackgroundElements7_100: 8772298907347618199
+      BackgroundElements7_70: -547042104370038628
+      BackgroundElements7_29: -7876032468818918003
+      BackgroundElements7_52: -649543654011820180
+      BackgroundElements7_95: 4221329760132743326
+      BackgroundElements7_32: 3983868019499965807
+      BackgroundElements7_69: 8434020068058432768
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

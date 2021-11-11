@@ -264,6 +264,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2020,6 +2021,87 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BackgroundElements4_30: -1560439282116556506
+      BackgroundElements4_69: -7768313338934145588
+      BackgroundElements4_66: 3967947919939690685
+      BackgroundElements4_54: 5881273202764930472
+      BackgroundElements4_49: -6551187886144247338
+      BackgroundElements4_73: 4449816406394370693
+      BackgroundElements4_61: 2491083518229051286
+      BackgroundElements4_33: -747165486741473167
+      BackgroundElements4_59: -132091109340380715
+      BackgroundElements4_72: 6836503318520823556
+      BackgroundElements4_23: 4466948649595268455
+      BackgroundElements4_15: 8319131121171336444
+      BackgroundElements4_32: 7882995763391441501
+      BackgroundElements4_35: -6887284487383057520
+      BackgroundElements4_63: -6955531069024383904
+      BackgroundElements4_42: -3143271826323275548
+      BackgroundElements4_68: 973384166557976172
+      BackgroundElements4_28: 2426232470119576145
+      BackgroundElements4_34: -5962196342842340579
+      BackgroundElements4_65: -7701069095033627134
+      BackgroundElements4_44: 2268193115651602000
+      BackgroundElements4_64: -2201707122956679957
+      BackgroundElements4_11: 4746298861780713150
+      BackgroundElements4_16: -1634310378949798024
+      BackgroundElements4_25: -6924824833512238641
+      BackgroundElements4_29: -5049610101413500774
+      BackgroundElements4_31: -3461832684330508591
+      BackgroundElements4_57: -273288211333186338
+      BackgroundElements4_18: 2608961961228045764
+      BackgroundElements4_2: 930914101995038135
+      BackgroundElements4_53: 2078915146946923757
+      BackgroundElements4_9: -2437761616884160065
+      BackgroundElements4_60: 1275765208061666713
+      BackgroundElements4_37: 4739907694221014745
+      BackgroundElements4_74: -1813856946837001004
+      BackgroundElements4_3: -1191392953859866402
+      BackgroundElements4_5: 6947131618569505181
+      BackgroundElements4_4: 2442526190482727530
+      BackgroundElements4_77: 5495840015310836559
+      BackgroundElements4_17: 7116751174175664495
+      BackgroundElements4_70: -8408717457747979786
+      BackgroundElements4_10: 322991694670023318
+      BackgroundElements4_76: -2652165607376409649
+      BackgroundElements4_51: -585753187187996405
+      BackgroundElements4_1: -6029575537596410660
+      BackgroundElements4_62: -2832844311815185467
+      BackgroundElements4_45: 6895819929983790216
+      BackgroundElements4_21: -1980551196976765048
+      BackgroundElements4_7: -8132716750780275875
+      BackgroundElements4_43: 7990429797087549523
+      BackgroundElements4_71: 7322457123887636983
+      BackgroundElements4_26: -2283352188732202996
+      BackgroundElements4_56: -6679651889820365389
+      BackgroundElements4_20: -7251113849942720711
+      BackgroundElements4_12: -5108936312131512420
+      BackgroundElements4_39: 2826250475425476730
+      BackgroundElements4_14: 1061782409432070743
+      BackgroundElements4_0: -1740462358417335913
+      BackgroundElements4_47: 4266115902139609798
+      BackgroundElements4_67: -2780829817165295183
+      BackgroundElements4_13: 351216587261970428
+      BackgroundElements4_75: -6065217967744254494
+      BackgroundElements4_78: -708199775745721678
+      BackgroundElements4_6: -3756876113375366198
+      BackgroundElements4_40: -1739601545045296428
+      BackgroundElements4_24: -1925745579530290285
+      BackgroundElements4_50: -3560146396253993465
+      BackgroundElements4_38: -5083942907732973154
+      BackgroundElements4_55: 941352871805197533
+      BackgroundElements4_48: 8462490489228279380
+      BackgroundElements4_52: 8573706003397865941
+      BackgroundElements4_19: -8843688192052783473
+      BackgroundElements4_58: -6423522917014448132
+      BackgroundElements4_41: -4823604623393921896
+      BackgroundElements4_79: 6486639189171629491
+      BackgroundElements4_46: 8435433853141072990
+      BackgroundElements4_36: -1689320216054388242
+      BackgroundElements4_22: -7386854947999151294
+      BackgroundElements4_8: 1050674555124777586
+      BackgroundElements4_27: 6647502136014741874
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

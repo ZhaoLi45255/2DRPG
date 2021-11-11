@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Test
   m_EditorClassIdentifier: 
   dialogue:
-  - 'This is my dialogue!
+  - 'This is my dialogue!!!!
 
-    Hello!'
+    Hello... it''s nice to meet you!'
   - 'This is my second dialogue!
 
-    Goodbye!'
+    Goodbye! Hope to see you later!'
   responses:
   - responseText: Yes
     dialogueObject: {fileID: 11400000, guid: 521b70fb7ccd10f43ad98d72ae1e6c7b, type: 2}

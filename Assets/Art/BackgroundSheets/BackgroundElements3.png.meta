@@ -432,6 +432,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -3364,6 +3365,143 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BackgroundElements3_127: 5452736513238649848
+      BackgroundElements3_2: -7856117998770963821
+      BackgroundElements3_124: -149758014332309884
+      BackgroundElements3_94: -625195937681881337
+      BackgroundElements3_110: 2400145961521478144
+      BackgroundElements3_101: -5571266517045688103
+      BackgroundElements3_80: -8290736613194523810
+      BackgroundElements3_73: -735834134587551789
+      BackgroundElements3_104: -510426504715564666
+      BackgroundElements3_56: -2675125707444607895
+      BackgroundElements3_54: 7451546055332505198
+      BackgroundElements3_51: -3266033927161540642
+      BackgroundElements3_131: -3663352111199329089
+      BackgroundElements3_57: -4410794462977958726
+      BackgroundElements3_59: 6303748787719787046
+      BackgroundElements3_70: -3317807808182803345
+      BackgroundElements3_13: -415277786630217861
+      BackgroundElements3_55: -1462022733955103626
+      BackgroundElements3_100: 3852110431678233504
+      BackgroundElements3_112: 8541612560440949267
+      BackgroundElements3_111: -6745421937007726081
+      BackgroundElements3_93: 4450415501920755612
+      BackgroundElements3_114: -8766181135620492116
+      BackgroundElements3_132: 5422068173940537565
+      BackgroundElements3_122: 5879003065006071903
+      BackgroundElements3_89: 5397093365986461156
+      BackgroundElements3_64: -4803616638840715433
+      BackgroundElements3_23: 1869566892258797886
+      BackgroundElements3_16: 1691613557718394350
+      BackgroundElements3_41: -5685277537478663412
+      BackgroundElements3_130: 4444426271235513515
+      BackgroundElements3_0: 7020531771146035441
+      BackgroundElements3_92: -2431953809643430051
+      BackgroundElements3_96: -2880038948776919177
+      BackgroundElements3_22: 5505142910687746568
+      BackgroundElements3_86: 379406901008426261
+      BackgroundElements3_126: 3648956485278997186
+      BackgroundElements3_83: 15727134034496827
+      BackgroundElements3_24: -3430831015162798823
+      BackgroundElements3_6: 207369097412540922
+      BackgroundElements3_25: 5412063458473890336
+      BackgroundElements3_87: 3794343629569291467
+      BackgroundElements3_91: -7767244718605205234
+      BackgroundElements3_67: 9105268918167944268
+      BackgroundElements3_115: 5592913866930658111
+      BackgroundElements3_34: -3300974876501952478
+      BackgroundElements3_12: -1783971670901252306
+      BackgroundElements3_68: -5717747830700417360
+      BackgroundElements3_123: 1292704187286997480
+      BackgroundElements3_53: 2883552935063173758
+      BackgroundElements3_61: 8784893209041064946
+      BackgroundElements3_19: -6880259624352942258
+      BackgroundElements3_42: -8960868082551437627
+      BackgroundElements3_10: 6556988200458827061
+      BackgroundElements3_26: 1809215623992142801
+      BackgroundElements3_33: -4783097026363796679
+      BackgroundElements3_60: -2321197845621625321
+      BackgroundElements3_128: -3638954027277774275
+      BackgroundElements3_98: -3674763160665478453
+      BackgroundElements3_47: -945117850414712251
+      BackgroundElements3_27: 190031377015755458
+      BackgroundElements3_9: -3326645640516907377
+      BackgroundElements3_66: 1229558427413901709
+      BackgroundElements3_79: -5422660881597379482
+      BackgroundElements3_71: -6103851161041038536
+      BackgroundElements3_72: 8241896101305335415
+      BackgroundElements3_48: 1703541747499917511
+      BackgroundElements3_36: -3994157519265653056
+      BackgroundElements3_5: 4882149149367543607
+      BackgroundElements3_134: -1338446185289493301
+      BackgroundElements3_18: 4270374210866229231
+      BackgroundElements3_14: -2558493036190177183
+      BackgroundElements3_77: -7383903656459187915
+      BackgroundElements3_50: 3562962968493641435
+      BackgroundElements3_129: 112380522014410017
+      BackgroundElements3_90: -8452603914263129218
+      BackgroundElements3_113: 2051503152172627541
+      BackgroundElements3_28: 287844267807958381
+      BackgroundElements3_85: 2484481825061740469
+      BackgroundElements3_17: -4571640552375904166
+      BackgroundElements3_107: 7699057678916740785
+      BackgroundElements3_125: -5156709159121380427
+      BackgroundElements3_84: 8143278807458415504
+      BackgroundElements3_106: 4063293762966161294
+      BackgroundElements3_11: -325621068572087929
+      BackgroundElements3_103: 3894124713530992786
+      BackgroundElements3_119: 7835893797424697299
+      BackgroundElements3_118: -6539701243070443541
+      BackgroundElements3_109: -7698513712889831970
+      BackgroundElements3_135: -6258101329247872935
+      BackgroundElements3_133: 4779456456384895145
+      BackgroundElements3_43: 8928677496834207308
+      BackgroundElements3_1: 2780315839244072862
+      BackgroundElements3_38: 6084329227209794215
+      BackgroundElements3_62: -3213495315128777692
+      BackgroundElements3_95: -2797523153369452803
+      BackgroundElements3_99: 3112157635865845323
+      BackgroundElements3_81: -2857396291616314863
+      BackgroundElements3_108: 4344591932309553351
+      BackgroundElements3_39: -3778602206979919042
+      BackgroundElements3_49: 2790169869100736601
+      BackgroundElements3_4: 2598048455656513775
+      BackgroundElements3_63: 7066521465038443075
+      BackgroundElements3_121: -1205203422297674257
+      BackgroundElements3_20: 4195452471814923688
+      BackgroundElements3_15: 76172649802620272
+      BackgroundElements3_45: 7542296594071437772
+      BackgroundElements3_74: 3350837350425916128
+      BackgroundElements3_32: 2981577601767929856
+      BackgroundElements3_3: 6072076612814057448
+      BackgroundElements3_97: 7071007892216442705
+      BackgroundElements3_76: -1758834651898483786
+      BackgroundElements3_31: 6314249484859868450
+      BackgroundElements3_37: 6294325961124390302
+      BackgroundElements3_58: -7947526347285891751
+      BackgroundElements3_35: -3503705259910164384
+      BackgroundElements3_105: 7027122200429667771
+      BackgroundElements3_78: -6790975213226337072
+      BackgroundElements3_7: -5010830969644006714
+      BackgroundElements3_30: -261103815725887472
+      BackgroundElements3_117: 517421444346393514
+      BackgroundElements3_52: -3407935736741964810
+      BackgroundElements3_44: 2834540002862843798
+      BackgroundElements3_46: -6313203882534989105
+      BackgroundElements3_102: -2384765198383962935
+      BackgroundElements3_75: -220033269481130132
+      BackgroundElements3_40: 1847024167783434428
+      BackgroundElements3_8: -6415083886030564402
+      BackgroundElements3_82: -1733346067659705131
+      BackgroundElements3_65: -4440710988635299971
+      BackgroundElements3_69: -3029369520108182942
+      BackgroundElements3_21: -1384302331744082228
+      BackgroundElements3_88: 7289696627208110971
+      BackgroundElements3_120: -7944213926368000982
+      BackgroundElements3_29: -7132959580640438952
+      BackgroundElements3_116: 3231694992927864831
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -195,6 +195,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1468,6 +1469,64 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tree2-final_42: 5579007701746008966
+      tree2-final_27: -1268082727816546592
+      tree2-final_23: 5118510361448289901
+      tree2-final_37: -8565106277107121864
+      tree2-final_54: 1293160774700622893
+      tree2-final_10: 4073156905751369585
+      tree2-final_56: -6714421695206173940
+      tree2-final_8: 2073515761075974642
+      tree2-final_17: 4526835507603585100
+      tree2-final_18: -3327609480389295740
+      tree2-final_47: -8905334434064947829
+      tree2-final_43: 4763726622114497484
+      tree2-final_19: -3444886438964850778
+      tree2-final_51: -4190734566346853498
+      tree2-final_4: 7136664254940111442
+      tree2-final_6: 8039845962125681376
+      tree2-final_5: 3143089774671571995
+      tree2-final_24: 8554662770146092521
+      tree2-final_44: -964951202471359692
+      tree2-final_20: 8254956479361942716
+      tree2-final_12: 6870119664348159091
+      tree2-final_28: 4306725883473513053
+      tree2-final_30: 65726111329498041
+      tree2-final_34: -1102759476093713858
+      tree2-final_41: -7868197774315113540
+      tree2-final_7: -8937189714177942365
+      tree2-final_1: -6234495155512999785
+      tree2-final_45: -4697991641170643550
+      tree2-final_40: 5938953659845049417
+      tree2-final_35: -7054442926041712927
+      tree2-final_22: 577065188335388339
+      tree2-final_11: 5440541546147989743
+      tree2-final_0: 1127840812051276771
+      tree2-final_25: -75116519439049325
+      tree2-final_52: 1007367284825845424
+      tree2-final_38: 1430436605091288651
+      tree2-final_16: -112212641921498857
+      tree2-final_26: -8500961906177308952
+      tree2-final_32: 581749441869173731
+      tree2-final_49: -313625261427382465
+      tree2-final_21: -7015064264092831591
+      tree2-final_46: -590069118346068053
+      tree2-final_50: -6635233128572971235
+      tree2-final_13: 7339300547240299153
+      tree2-final_36: 4939795115007790355
+      tree2-final_14: -3204095725443603481
+      tree2-final_53: 147630828326967697
+      tree2-final_29: 1574703124370430587
+      tree2-final_15: 3835303342156260764
+      tree2-final_48: 4110155818797848800
+      tree2-final_2: -1087826587383340516
+      tree2-final_55: -534939839970319898
+      tree2-final_33: 68229608090489422
+      tree2-final_3: 648736644446668070
+      tree2-final_9: -956344164274301734
+      tree2-final_31: 6366458773071210662
+      tree2-final_39: 7638416715016887637
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

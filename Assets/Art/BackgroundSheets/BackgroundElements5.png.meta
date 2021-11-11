@@ -216,6 +216,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1636,6 +1637,71 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BackgroundElements5_47: 4748201826227974473
+      BackgroundElements5_18: -735679419955851825
+      BackgroundElements5_53: 2627799338911864292
+      BackgroundElements5_49: -1441737984162372548
+      BackgroundElements5_48: -8216970009967088973
+      BackgroundElements5_16: -6957291911867224154
+      BackgroundElements5_23: -6960635993528267676
+      BackgroundElements5_42: 245309243922484326
+      BackgroundElements5_36: 5233093370699473631
+      BackgroundElements5_37: 6315853996708701721
+      BackgroundElements5_0: 3429068264537020486
+      BackgroundElements5_41: -8393931436727906521
+      BackgroundElements5_14: -852938300643860355
+      BackgroundElements5_58: 7389121812930667280
+      BackgroundElements5_26: 1769308459919237565
+      BackgroundElements5_5: 5507932758677967189
+      BackgroundElements5_25: 7736975376128629756
+      BackgroundElements5_11: -2859450433696166220
+      BackgroundElements5_6: 183434650618039714
+      BackgroundElements5_33: 781201301783890092
+      BackgroundElements5_44: -8727199108645188064
+      BackgroundElements5_63: 3837621382733952153
+      BackgroundElements5_15: 4506087673174941284
+      BackgroundElements5_9: -4899312554536377419
+      BackgroundElements5_61: -5941099159148438811
+      BackgroundElements5_31: 2648157084378074329
+      BackgroundElements5_62: -5856599852295802657
+      BackgroundElements5_52: 8384183400680423667
+      BackgroundElements5_24: 4160219853804913510
+      BackgroundElements5_27: -8125446831273968645
+      BackgroundElements5_38: -6543564457888361977
+      BackgroundElements5_59: -1787346283739098813
+      BackgroundElements5_46: -8539814082552299603
+      BackgroundElements5_19: -2732644159177026541
+      BackgroundElements5_34: 3443529995476374818
+      BackgroundElements5_50: 1515213239238681854
+      BackgroundElements5_20: 2851763104053334587
+      BackgroundElements5_51: 6765641429146067889
+      BackgroundElements5_28: 5668456827642286090
+      BackgroundElements5_35: -3330076949700520519
+      BackgroundElements5_10: 4801077588650393813
+      BackgroundElements5_30: 6569903599601352497
+      BackgroundElements5_32: 6925163747147276995
+      BackgroundElements5_22: 5867951278192588412
+      BackgroundElements5_60: 1998928268104875183
+      BackgroundElements5_3: 8587599286233409904
+      BackgroundElements5_54: 5792986537603652754
+      BackgroundElements5_8: -4220337441534262852
+      BackgroundElements5_55: 7756892474035764468
+      BackgroundElements5_56: -6838987671276058909
+      BackgroundElements5_57: -632703516503911459
+      BackgroundElements5_43: -2373891579072881717
+      BackgroundElements5_2: 2277714022248913986
+      BackgroundElements5_21: -1203318710435634536
+      BackgroundElements5_4: -5240130081717161445
+      BackgroundElements5_13: 6296755515313382755
+      BackgroundElements5_40: -6347452174276141711
+      BackgroundElements5_7: -1102559846750235625
+      BackgroundElements5_39: 8350454516900600292
+      BackgroundElements5_12: -5001171957569865831
+      BackgroundElements5_1: 5905608140802102937
+      BackgroundElements5_17: -433208374259161275
+      BackgroundElements5_29: 3134715055435390878
+      BackgroundElements5_45: -8050579985973848720
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -240,6 +240,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1828,6 +1829,79 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      grass-tiles-2-small_47: -8979558793974321762
+      grass-tiles-2-small_48: -2177251092046137662
+      grass-tiles-2-small_45: -5741004804771951964
+      grass-tiles-2-small_27: 7553803437759402049
+      grass-tiles-2-small_51: -7513285537219650641
+      grass-tiles-2-small_44: -3884029260077768326
+      grass-tiles-2-small_11: 6622161453101433544
+      grass-tiles-2-small_31: 4967637775366961304
+      grass-tiles-2-small_41: 4081995078334432682
+      grass-tiles-2-small_65: 8001415588267948979
+      grass-tiles-2-small_3: 218974059023328644
+      grass-tiles-2-small_4: -1324873607408354925
+      grass-tiles-2-small_49: 2532498788639260638
+      grass-tiles-2-small_50: 5515788949525035535
+      grass-tiles-2-small_34: 4615968148408487769
+      grass-tiles-2-small_16: -3091787345900617863
+      grass-tiles-2-small_23: 7643714155834887893
+      grass-tiles-2-small_22: 4555643376085663425
+      grass-tiles-2-small_52: 5627989793653856231
+      grass-tiles-2-small_62: 6795502345567401966
+      grass-tiles-2-small_32: -24046928221128760
+      grass-tiles-2-small_42: -7686474777373003343
+      grass-tiles-2-small_33: 2622909316359065628
+      grass-tiles-2-small_28: 7630663890500614614
+      grass-tiles-2-small_63: -3598602042185647637
+      grass-tiles-2-small_35: 3382427111671635004
+      grass-tiles-2-small_57: -5273406816572769393
+      grass-tiles-2-small_25: -6193933588832401109
+      grass-tiles-2-small_70: -4417810093212159197
+      grass-tiles-2-small_24: 8111512800232971449
+      grass-tiles-2-small_53: -9076734665537290483
+      grass-tiles-2-small_9: -2895494047458765410
+      grass-tiles-2-small_30: 8384719687105650080
+      grass-tiles-2-small_7: -3381458441971868507
+      grass-tiles-2-small_55: 7137327117023259101
+      grass-tiles-2-small_54: -821462939564511737
+      grass-tiles-2-small_15: -1367196743567250377
+      grass-tiles-2-small_8: 3013243068083928266
+      grass-tiles-2-small_66: -5546581465994429836
+      grass-tiles-2-small_26: 1666477733720932991
+      grass-tiles-2-small_2: 5739008160933763525
+      grass-tiles-2-small_40: 5266430440282256637
+      grass-tiles-2-small_68: 5545667473371564878
+      grass-tiles-2-small_59: -5134620827972112210
+      grass-tiles-2-small_38: 1147883175556091893
+      grass-tiles-2-small_0: -2249390896355624824
+      grass-tiles-2-small_5: -6407572530922429628
+      grass-tiles-2-small_14: -5725116780537374608
+      grass-tiles-2-small_18: 202303389115371551
+      grass-tiles-2-small_43: -2061798935953588006
+      grass-tiles-2-small_64: 2368770819461034625
+      grass-tiles-2-small_29: 4779146467071950503
+      grass-tiles-2-small_56: 4034703652418145614
+      grass-tiles-2-small_10: -2807363704633559461
+      grass-tiles-2-small_20: 4895888770394051514
+      grass-tiles-2-small_71: -2364923954768458525
+      grass-tiles-2-small_60: 7313687630265732619
+      grass-tiles-2-small_61: -6561602842080082227
+      grass-tiles-2-small_46: 6894708628717150598
+      grass-tiles-2-small_58: 4209116045233210687
+      grass-tiles-2-small_37: 5095462628631415438
+      grass-tiles-2-small_12: 5987978648739823489
+      grass-tiles-2-small_13: 7276601203858796633
+      grass-tiles-2-small_1: 6540006326200531446
+      grass-tiles-2-small_19: -7866756041245633586
+      grass-tiles-2-small_21: -9185446471290544845
+      grass-tiles-2-small_39: -3289917629408862317
+      grass-tiles-2-small_36: -6055814307420099984
+      grass-tiles-2-small_67: -4627067922155327531
+      grass-tiles-2-small_69: 4935203396603255711
+      grass-tiles-2-small_6: -217511151821879475
+      grass-tiles-2-small_17: -2137384280995765633
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

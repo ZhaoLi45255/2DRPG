@@ -360,6 +360,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2788,6 +2789,119 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      BackgroundElements10_1: -6979766142837336195
+      BackgroundElements10_23: 2849773718343820828
+      BackgroundElements10_52: 282760565292348165
+      BackgroundElements10_31: 4427387815854044139
+      BackgroundElements10_93: -4280276059696150766
+      BackgroundElements10_53: -4844710152517626154
+      BackgroundElements10_21: -2628532368293334110
+      BackgroundElements10_48: -6878836651103505930
+      BackgroundElements10_29: 8295429615528248195
+      BackgroundElements10_58: 6673589505856696366
+      BackgroundElements10_70: 2286337698399103642
+      BackgroundElements10_102: 7238973573036560993
+      BackgroundElements10_3: -5860078529461545929
+      BackgroundElements10_108: -3731846720978631466
+      BackgroundElements10_45: 5495378692951466613
+      BackgroundElements10_4: -1228931726111789615
+      BackgroundElements10_95: -3626783015652718676
+      BackgroundElements10_91: 7399815828866603574
+      BackgroundElements10_75: -294608822228090207
+      BackgroundElements10_20: 5783452940383852267
+      BackgroundElements10_28: 7560510102940684676
+      BackgroundElements10_83: -1652579659197528153
+      BackgroundElements10_12: -4122824115938730949
+      BackgroundElements10_14: -7014276349904816098
+      BackgroundElements10_10: 8289915663155907497
+      BackgroundElements10_47: 7391105349170650855
+      BackgroundElements10_64: -9183478029165590400
+      BackgroundElements10_55: -4892425550652622674
+      BackgroundElements10_11: -6272006494132772004
+      BackgroundElements10_38: 6448828894846855667
+      BackgroundElements10_62: 2471890813110046804
+      BackgroundElements10_111: 5467385601109372097
+      BackgroundElements10_5: 717247346515388204
+      BackgroundElements10_17: 1976020358848586577
+      BackgroundElements10_8: -7034322020713794172
+      BackgroundElements10_103: -5385953244476926685
+      BackgroundElements10_22: 8017145363726415076
+      BackgroundElements10_26: -1311401028756122007
+      BackgroundElements10_66: -3399561817233568351
+      BackgroundElements10_100: -509792180446191991
+      BackgroundElements10_16: -2922884577833274385
+      BackgroundElements10_41: 4252646123254489292
+      BackgroundElements10_54: 517456328420507785
+      BackgroundElements10_65: -2357020575705693306
+      BackgroundElements10_33: -3134523705730556352
+      BackgroundElements10_105: 7850139216510529520
+      BackgroundElements10_57: -6636793699735158801
+      BackgroundElements10_109: -3006270164744006050
+      BackgroundElements10_40: 5002584338724971596
+      BackgroundElements10_63: 3044890830563217457
+      BackgroundElements10_18: -784155743107477622
+      BackgroundElements10_15: -8638809849994516481
+      BackgroundElements10_99: 7315977197872629713
+      BackgroundElements10_81: -1331757215696064431
+      BackgroundElements10_86: 66029412196746854
+      BackgroundElements10_94: -3480806725839051759
+      BackgroundElements10_92: 372954476636599629
+      BackgroundElements10_46: 8710859127449691743
+      BackgroundElements10_76: -7837728207509005491
+      BackgroundElements10_98: -299032850804014333
+      BackgroundElements10_68: 990161522447362288
+      BackgroundElements10_87: -8269604586764767945
+      BackgroundElements10_90: -1647728039589091744
+      BackgroundElements10_84: -251508765073607326
+      BackgroundElements10_61: -1055460312274288817
+      BackgroundElements10_67: 1759239229748031545
+      BackgroundElements10_32: 8625833819110437630
+      BackgroundElements10_97: 5875872168991894843
+      BackgroundElements10_2: 5131640102770494424
+      BackgroundElements10_110: -8471322072727830375
+      BackgroundElements10_39: -8519542247427037308
+      BackgroundElements10_78: -2849996121813364826
+      BackgroundElements10_37: -2502072865262508373
+      BackgroundElements10_36: 6692379727878476324
+      BackgroundElements10_101: -3135460472114281618
+      BackgroundElements10_6: -7036308478808532721
+      BackgroundElements10_79: 7831624798416249069
+      BackgroundElements10_51: 8524232906900697188
+      BackgroundElements10_77: 4116893352833795524
+      BackgroundElements10_49: 5678112090529316747
+      BackgroundElements10_107: 3810518665862527100
+      BackgroundElements10_19: -2038741465241097648
+      BackgroundElements10_30: -5267207461582647382
+      BackgroundElements10_13: 1640273939729234150
+      BackgroundElements10_106: -7071184691254257476
+      BackgroundElements10_88: -6150454362392022617
+      BackgroundElements10_104: 2622284959503666889
+      BackgroundElements10_69: -5256345226407565327
+      BackgroundElements10_0: 4128743931346454121
+      BackgroundElements10_35: 8314036359523763242
+      BackgroundElements10_25: 6217070426791553673
+      BackgroundElements10_34: -6691346362390232394
+      BackgroundElements10_71: -8380084681159798186
+      BackgroundElements10_96: -1101312239844538118
+      BackgroundElements10_42: 6973186321597345493
+      BackgroundElements10_50: 4485764151083107837
+      BackgroundElements10_59: -4949319644849098362
+      BackgroundElements10_73: 6717565040658256297
+      BackgroundElements10_85: 3718923635009608691
+      BackgroundElements10_80: 2221018863756418788
+      BackgroundElements10_82: 5979128109053773473
+      BackgroundElements10_9: -2524252608879731496
+      BackgroundElements10_24: 701525264906189151
+      BackgroundElements10_56: -2685327170189855551
+      BackgroundElements10_74: 4310681087720226770
+      BackgroundElements10_89: -2741348080636893929
+      BackgroundElements10_27: -1493796837954393460
+      BackgroundElements10_44: 8593735753916871091
+      BackgroundElements10_72: -7234379534579988656
+      BackgroundElements10_60: -7983530529384885184
+      BackgroundElements10_7: 5867283164632452625
+      BackgroundElements10_43: -3093081929238940099
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

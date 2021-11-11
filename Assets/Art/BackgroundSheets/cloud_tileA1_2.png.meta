@@ -240,6 +240,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1828,6 +1829,79 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      cloud_tileA1_2_50: -22668982602080514
+      cloud_tileA1_2_66: -4139973855498872765
+      cloud_tileA1_2_31: -2056031401503549647
+      cloud_tileA1_2_1: 1710940392460231959
+      cloud_tileA1_2_5: -8628598683686570992
+      cloud_tileA1_2_8: 6105381716787673080
+      cloud_tileA1_2_43: -1486043262972664509
+      cloud_tileA1_2_24: 5998703560559838500
+      cloud_tileA1_2_47: 7504649423369893527
+      cloud_tileA1_2_71: 7251703129026658795
+      cloud_tileA1_2_3: -7035809790573103209
+      cloud_tileA1_2_17: 3139743742983245365
+      cloud_tileA1_2_45: -6148732296799188791
+      cloud_tileA1_2_29: 4698582111649777550
+      cloud_tileA1_2_57: 3608064882816563538
+      cloud_tileA1_2_16: 3401132013046411844
+      cloud_tileA1_2_2: -5630904806292791504
+      cloud_tileA1_2_15: -507952694223866282
+      cloud_tileA1_2_48: 1233515740145611239
+      cloud_tileA1_2_56: -239543367839414628
+      cloud_tileA1_2_30: 6152867506767870225
+      cloud_tileA1_2_6: -826299755520867885
+      cloud_tileA1_2_67: -1410432442550378959
+      cloud_tileA1_2_20: 7356348125644621266
+      cloud_tileA1_2_9: 7720797910974339387
+      cloud_tileA1_2_14: -4855034357649823486
+      cloud_tileA1_2_11: -2639726049305626182
+      cloud_tileA1_2_51: 3756397970746873830
+      cloud_tileA1_2_25: 5370885357796468231
+      cloud_tileA1_2_22: -5686864058642496376
+      cloud_tileA1_2_27: 2646519199644525101
+      cloud_tileA1_2_41: 2915996992387096461
+      cloud_tileA1_2_33: -3630185367806717572
+      cloud_tileA1_2_54: 1509627215336767408
+      cloud_tileA1_2_58: -5813053307423605861
+      cloud_tileA1_2_61: 1268871808049172165
+      cloud_tileA1_2_62: 1503150418691031101
+      cloud_tileA1_2_10: -2364486657353195117
+      cloud_tileA1_2_40: -1063797912576230698
+      cloud_tileA1_2_59: -1258584242484631758
+      cloud_tileA1_2_36: 4635200804171497138
+      cloud_tileA1_2_4: 96412959827374444
+      cloud_tileA1_2_46: 3760902062231118327
+      cloud_tileA1_2_13: 3864859877036145753
+      cloud_tileA1_2_69: -2818452736895953664
+      cloud_tileA1_2_60: -3757213420885759160
+      cloud_tileA1_2_42: -4192664035912279541
+      cloud_tileA1_2_65: 2802937662129330339
+      cloud_tileA1_2_53: 5855793038223673604
+      cloud_tileA1_2_63: -2339690809253379516
+      cloud_tileA1_2_52: 5543351762612103737
+      cloud_tileA1_2_49: 8847751341110272834
+      cloud_tileA1_2_0: -3408759476725687235
+      cloud_tileA1_2_34: 2587345976672163419
+      cloud_tileA1_2_7: -4998520698105986409
+      cloud_tileA1_2_64: -1003954813253453515
+      cloud_tileA1_2_37: 4250071943482275199
+      cloud_tileA1_2_21: -5121498304476743767
+      cloud_tileA1_2_23: -443948500333049445
+      cloud_tileA1_2_35: -8980946482289944273
+      cloud_tileA1_2_55: -5437159543830896082
+      cloud_tileA1_2_12: 7550758141579438575
+      cloud_tileA1_2_68: -143342699355821716
+      cloud_tileA1_2_70: -1399313548238959586
+      cloud_tileA1_2_38: 6293569784837980655
+      cloud_tileA1_2_18: 5036464995525567661
+      cloud_tileA1_2_19: 523445727656029500
+      cloud_tileA1_2_32: 1216648330454817155
+      cloud_tileA1_2_44: -4789315186595025732
+      cloud_tileA1_2_28: -3106694897085294136
+      cloud_tileA1_2_39: 3189855175143795006
+      cloud_tileA1_2_26: 3074318941338529093
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
